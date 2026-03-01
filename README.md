@@ -1,0 +1,2 @@
+# TeradataBible
+TeradataBible
